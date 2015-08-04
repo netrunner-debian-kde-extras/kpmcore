@@ -3,4 +3,4 @@
 include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 
 override_dh_strip:
-	$(overriden_command) --dbg-package=kpmcore-dbg
+	$(overridden_command) --dbg-package=kpmcore-dbg
