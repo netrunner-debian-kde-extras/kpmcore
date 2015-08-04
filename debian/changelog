@@ -1,0 +1,5 @@
+kpmcore (0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 04 Aug 2015 16:02:28 +0200
