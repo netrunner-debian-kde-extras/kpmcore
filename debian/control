@@ -23,7 +23,7 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/kpmcore.git
 Package: libkpmcore-dev
 Section: libdevel
 Architecture: any
-Depends: kpmcore (= ${binary:Version}), ${misc:Depends}
+Depends: libkpmcore1 (= ${binary:Version}), ${misc:Depends}
 Description: library for managing partitions -- development headers
  Library for managing partitions, used by the KDE Partition Manager
  and other projects.
