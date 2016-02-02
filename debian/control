@@ -48,4 +48,3 @@ Description: library for managing partitions -- debugging symbols
  .
  This package contains the debugging symbols provided by the kpmcore
  project.
-
