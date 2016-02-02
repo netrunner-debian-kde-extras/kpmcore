@@ -38,6 +38,16 @@ Description: library for managing partitions
  Library for managing partitions, used by the KDE Partition Manager
  and other projects.
 
+Package: libkpmcore1
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: library for managing partitions
+ Library for managing partitions, used by the KDE Partition Manager
+ and other projects.
+ .
+ This package contains the shared library for KPMCore
+
+
 Package: kpmcore-dbg
 Section: debug
 Architecture: any
