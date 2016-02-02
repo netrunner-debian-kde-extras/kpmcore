@@ -1,1 +1,2 @@
-usr/lib/lib*.so.*
+usr/lib/*/libkpmcore.so.2.*
+usr/lib/*/libkpmcore.so.1
